@@ -11,4 +11,4 @@ Borges wrote several highly relevant Spanish-speaking stories that achieved univ
 
 I invite you to read Borges =)
 
-[About Borges](https://gojaboop.github.io/)
+Link to page: https://gojaboop.github.io/
